@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "股民：佳士科技被曝遭机构抛售，股票或将断崖式下跌"
-tags: [佳士黑幕]
+title: "燕赤霞：呼吁为“佳士先进工人”捐助"
+tags: [捐助]
 comments: true
 ---
 原作者：叮人的牛虻
