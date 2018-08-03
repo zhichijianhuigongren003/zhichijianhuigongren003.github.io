@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 浙江工大学子对深圳JSgongren的shengyuan书
+title: 浙工大学子对深圳JSgongren的shengyuan书
 tags: [佳士工友]
 comments: true
 ---
