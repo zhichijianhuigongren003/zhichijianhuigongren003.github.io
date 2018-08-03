@@ -4,6 +4,11 @@ title: "究竟是谁在对人民犯罪？——湖#南青年学生就“廣#東7
 tags: [声援团]
 comments: true
 ---
+**声援视频**
+
+<div id="a1" class="dplayer"><video src="https://cloud189-nj.oos-js.ctyunapi.cn/2f26f05f-e18e-4bc6-80c7-6e86a462ef72?x-amz-UFID=5151652187872971&amp;x-amz-FSIZE=4370123&amp;response-content-type=video/mp4&amp;Expires=1533302267&amp;x-amz-UID=629396471&amp;response-content-disposition=attachment%3Bfilename%3D%22%C3%A6%C2%B9%C2%96%C3%A5%C2%8D%C2%97%C3%A5%C2%AD%C2%A6%C3%A5%C2%AD%C2%90%C3%A7%C2%9A%C2%84%C3%A5%C2%A3%C2%B0%C3%A6%C2%8F%C2%B4%20.mp4%22&amp;AWSAccessKeyId=ad2d051c334eb8bbf4c1&amp;x-amz-CLOUDTYPEIN=PERSON&amp;Signature=mxPf/8hftP2cPEaQ2JVMEaea1cY%3D" controls="controls" autoplay="autoplay" poster="loading.gif" x-webkit-airplay="allow" width="100%" height="100%"></video></div>
+
+点击此处下载:[视频下载](https://www.yylep.com/f-3188-d/9ac4b9a6.mp4?pan=ty)
 
 一
 
