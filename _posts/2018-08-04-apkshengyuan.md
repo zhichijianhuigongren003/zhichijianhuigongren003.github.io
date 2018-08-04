@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 艾帕!@克weiquan工@#人联盟声！@#援-jia-shi-被￥#捕工@#人！ 
+title: 来自艾帕克工人的呼声 
 tags: [艾帕克工人]
 comments: true
 ---
