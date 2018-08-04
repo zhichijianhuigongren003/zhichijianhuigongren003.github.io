@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 江西师范大学学生声援书
+title: 江西师范大学学生shengyuan书
 tags: [声援团]
 comments: true
 ---
@@ -35,3 +35,5 @@ comments: true
 2018.8.1.晚
 
 江西师大 王兆前等6名左翼同学
+
+联名请发邮箱：jiangxishengyuan@yandex.com
