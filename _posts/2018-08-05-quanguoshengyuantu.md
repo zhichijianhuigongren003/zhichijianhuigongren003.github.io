@@ -1,5 +1,11 @@
 ---
-published: false
+published: true
+layout: post
+tags:
+  - - 声援团
+    - 陕西地区部分高校
+comments: true
+title: 全国各地声援图集视频集
 ---
 ## 全国各地声援图集视频集
 
