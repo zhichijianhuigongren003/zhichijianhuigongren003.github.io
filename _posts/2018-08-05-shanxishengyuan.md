@@ -1,6 +1,6 @@
 ---
 published: true
-title: '陕西地区部分高校^#针对Jia^士工$友的联@合声##援公#开!信'
+title: '陕西地区部分高校针对JS工友的联合shengyuan公开信'
 layout: post
 tags:
   - [声援团, 陕西地区部分高校]
