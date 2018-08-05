@@ -3,7 +3,7 @@ published: true
 title: '陕西地区部分高校^#针对Jia^士工$友的联@合声##援公#开!信'
 layout: post
 tags:
-  - 声援团 陕西地区部分高校
+  - [声援团, 陕西地区部分高校]
 comments: true
 ---
 **我们曾疑惑，这究竟是一个怎样的时代？**
