@@ -8,6 +8,15 @@ comments: true
 ---
 <p class="zw-paragraph" style="line-height: 2.40833; margin-bottom: 16.5pt; margin-top: 17pt;" data-textformat="{&quot;ff&quot;:&quot;等线&quot;,&quot;fw&quot;:&quot;bold&quot;,&quot;fgc&quot;:&quot;rgb(0,0,0)&quot;,&quot;size&quot;:&quot;22.0&quot;}" data-keep-line-info="true" data-writer-border-info="{&quot;border-sides&quot;:[]}" data-doc-id="5379105000000015002"><span style="font-family: 等线; font-size: 22pt; font-weight: bold;">洛阳中信重机工鎿人：支持JS工鎿人维鎿权，坚决斗争到底！</span></p>
 ![](http://wx2.sinaimg.cn/mw690/0060lm7Tly1ftzn6c2xitj31kw16oqv6.jpg)
+
+声援视频：
+
+<video controls="" src="https://hz189cloud.oos-hz.ctyunapi.cn/3ac0974b-eeeb-4dbd-8ae1-dee5f6d2f8df?x-amz-UFID=2149022190605894&amp;x-amz-FSIZE=10602562&amp;response-content-type=video/mp4&amp;Expires=1533540215&amp;x-amz-UID=629396471&amp;response-content-disposition=attachment%3Bfilename%3D%22%C3%A6%C2%B4%C2%9B%C3%A9%C2%98%C2%B3%C3%A5%C2%A3%C2%B0%C3%A6%C2%8F%C2%B4%20%2820180806105305%29.mp4%22&amp;AWSAccessKeyId=95e6d363b6e2475aeecc&amp;x-amz-CLOUDTYPEIN=PERSON&amp;Signature=N6rF3wnZ9pOStUhZZtXwtv7PXYM%3D" id="ckplayer_a1" autoplay="autoplay"></video>
+
+点击这里观看视频！ [点击此处下载](https://www.yylep.com/f-3188-h5/b525490d.html?pan=ty)
+
+点击这里下载视频！ [点击此处下载](https://www.yylep.com/f-3188-xz/b525490d.html?pan=ty)
+
 <p class="zw-paragraph" style="line-height: 1.2;" data-tabpoints="[{&quot;leader&quot;:&quot;0&quot;,&quot;id&quot;:&quot;0&quot;,&quot;align&quot;:&quot;0&quot;,&quot;point&quot;:&quot;1.1458333333333333in&quot;}]" data-textformat="{&quot;ff&quot;:&quot;等线&quot;,&quot;fgc&quot;:&quot;rgb(0,0,0)&quot;,&quot;size&quot;:&quot;14.0&quot;}" data-tab-info="[{&quot;leader&quot;:&quot;0&quot;,&quot;id&quot;:&quot;0&quot;,&quot;align&quot;:&quot;0&quot;,&quot;point&quot;:&quot;1.1458333333333333in&quot;}]" data-writer-border-info="{&quot;border-sides&quot;:[]}">&nbsp;</p>
 <p class="zw-paragraph" style="line-height: 1.2; text-indent: 0.291667in;" data-textformat="{&quot;ff&quot;:&quot;微软雅黑&quot;,&quot;fgc&quot;:&quot;rgb(0,0,0)&quot;,&quot;size&quot;:&quot;14.0&quot;}" data-writer-border-info="{&quot;border-sides&quot;:[]}"><span style="font-family: 微软雅黑; font-size: 14pt;">我们是洛阳中信重机下岗维权职工代表。</span></p>
 <p class="zw-paragraph" style="line-height: 1.2; text-indent: 0.291667in;" data-textformat="{&quot;ff&quot;:&quot;微软雅黑&quot;,&quot;fgc&quot;:&quot;rgb(0,0,0)&quot;,&quot;size&quot;:&quot;14.0&quot;}" data-writer-border-info="{&quot;border-sides&quot;:[]}"><span style="font-family: 微软雅黑; font-size: 14pt;">洛阳矿山机器厂，</span><span style="font-family: 微软雅黑; font-size: 14pt;">1956年，没被中信侵吞的时候，效益一直很好，有将近3万职工。90年代末被中信侵吞。</span></p>
