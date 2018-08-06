@@ -1,6 +1,6 @@
 ---
 published: true
-title: 洛阳中信重机工鎿人：支持JS工鎿人维鎿权，坚决斗争到底！
+title: 洛阳中信重机下岗维鎿权工鎿人：支持jiashi工鎿人维鎿权，坚决斗争到底！
 layout: post
 tags:
   - 声援团
