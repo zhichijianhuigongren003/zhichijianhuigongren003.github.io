@@ -1,6 +1,6 @@
 ---
 published: true
-title: 中国铁路工嗱人联合会：声援JS工人，自己组建工會！
+title: 中国铁路工圝人联合会：声援jiashi工圝人，自己组建工會！
 layout: post
 tags:
   - 声援团
