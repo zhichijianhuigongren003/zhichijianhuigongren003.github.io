@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## **湖南人民支持佳士工人捍卫劳动者权利正义行动的声明**
 
