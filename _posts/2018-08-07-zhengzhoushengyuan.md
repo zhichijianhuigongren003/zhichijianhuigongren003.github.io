@@ -39,7 +39,6 @@ title: 【最新消息！速转速存！】河南声圝援团关于佳圝士工�
 <p><strong><span style="font-size: 15.0pt;">&nbsp;</span></strong></p>
 <p><span style="font-size: 11.5pt;">&nbsp;</span></p>
 
-附件二
 
 **八一建军节发生在郑州毛主席雕像前的法西斯恶行**
 
