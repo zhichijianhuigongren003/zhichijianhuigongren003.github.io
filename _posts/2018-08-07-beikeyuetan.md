@@ -1,5 +1,10 @@
 ---
-published: false
+published: true
+layout: post
+tags:
+  - 声援团
+comments: true
+title: 【北科学子生源被约谈！】生源公友天经地义，学校竟然恐吓家长？！
 ---
 ## 生源公友天经地义，学校竟然恐吓家长？！
 
