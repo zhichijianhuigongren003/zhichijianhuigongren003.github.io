@@ -4,9 +4,9 @@ layout: post
 tags:
   - 声援团
 comments: true
-title: “深圳佳圝士工圝人维圝权斗圝争”河南声圝援团致中共中央建议信
+title: 【已递交河南省委】“深圳佳圝士工圝人维圝权斗圝争”河南声圝援团致中共中央建议信
 ---
-<p style="text-align: center;"><strong><span style="font-size: 17.0pt; font-family: 宋体;">&ldquo;【已递交河南省委】深圳佳士工人维权斗争&rdquo;河南声援团致中共中央建议信</span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: 17.0pt; font-family: 宋体;">【已递交河南省委】&ldquo;深圳佳士工人维权斗争&rdquo;河南声援团致中共中央建议信</span></strong></p>
 ![递交](http://wx4.sinaimg.cn/mw690/0060lm7Tly1fu0wolsuj1j31400u0djd.jpg)
 
 <p><span style="font-size: 11.5pt;">&nbsp;</span></p>
