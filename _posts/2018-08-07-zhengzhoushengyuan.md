@@ -8,6 +8,16 @@ title: 【最新消息！速转速存！】河南声圝援团关于佳圝士工�
 ---
 <p style="text-align: center;"><strong><span style="font-size: 17.0pt; font-family: 宋体;">【最新消息！速转速存！】河南声圝援团关于佳圝士工圝人维圝权斗圝争建议信递交省委经过全记录！</span></strong></p>
 
+河南生源团公开生源视频！：
+
+<video controls="" src="https://cloud189-nj.oos-js.ctyunapi.cn/b76007aa-d449-4d0e-b39d-51551bd6e5cb?x-amz-UFID=6147022175854039&amp;x-amz-FSIZE=11154699&amp;response-content-type=video/mp4&amp;Expires=1533640201&amp;x-amz-UID=629396471&amp;response-content-disposition=attachment%3Bfilename%3D%22%C3%A9%C2%83%C2%91%C3%A5%C2%B7%C2%9E%C3%A5%C2%A3%C2%B0%C3%A6%C2%8F%C2%B4.mp4%22&amp;AWSAccessKeyId=ad2d051c334eb8bbf4c1&amp;x-amz-CLOUDTYPEIN=PERSON&amp;Signature=dHO%2BKaQUIAQ7PChX0JDy9kC9flo%3D" id="ckplayer_a1" autoplay="autoplay" width="100%" height="100%"></video>
+
+---
+
+<video controls="" src="https://cloud189-nj.oos-js.ctyunapi.cn/ef47d102-5caf-488b-9fee-677aad1f6ca0?x-amz-UFID=8149022185780766&amp;x-amz-FSIZE=6985598&amp;response-content-type=video/mp4&amp;Expires=1533640203&amp;x-amz-UID=629396471&amp;response-content-disposition=attachment%3Bfilename%3D%22%C3%A9%C2%83%C2%91%C3%A5%C2%B7%C2%9E%C3%A6%C2%AF%C2%9B%C3%A5%C2%AE%C2%A3%C3%A9%C2%98%C2%9F.mp4%22&amp;AWSAccessKeyId=ad2d051c334eb8bbf4c1&amp;x-amz-CLOUDTYPEIN=PERSON&amp;Signature=XfbpaGhDfgla1tzS/DGHXrsHXvI%3D" id="ckplayer_a1" autoplay="autoplay" width="100%" height="100%"></video>
+
+
+
 ## 声援圝团在递交过程中拍摄的照片和视频已经被警圝察强行删除！！！
 
 <p><span style="font-size: 11.5pt;">&nbsp;</span></p>
