@@ -8,6 +8,8 @@ title: 【删后重发！新增现场生源视频！速转速存！】河南声�
 ---
 <p style="text-align: center;"><strong><span style="font-size: 17.0pt; font-family: 宋体;">【最新消息！速转速存！】河南声圝援团关于佳圝士工圝人维圝权斗圝争建议信递交省委经过全记录！</span></strong></p>
 
+**2018年8月7日下午，来自河南生元团的宋ying、郑hui路、杨chun坡三位老同志加入jiashi工友生元团，并肩战斗，亮明立场：我们郑州河南老gong人阶级，永远做jiashi工友的坚强后盾，我们和你们战斗在一起，胜利在一起，下定决心，不怕牺牲，排除万难，去争取胜利！**
+
 河南生源团公开生源视频！：
 
 <video controls="" src="https://cloud189-nj.oos-js.ctyunapi.cn/5c3020a5-9b22-447f-a579-d2938759235b?x-amz-UFID=7147112187967530&amp;x-amz-FSIZE=6129442&amp;response-content-type=video/mp4&amp;Expires=1533644112&amp;x-amz-UID=629396471&amp;response-content-disposition=attachment%3Bfilename%3D%22%C3%A9%C2%83%C2%91%C3%A5%C2%B7%C2%9E%C3%A7%C2%94%C2%9F%C3%A6%C2%BA%C2%90%C3%A5%C2%9B%C2%A2.mp4%22&amp;AWSAccessKeyId=ad2d051c334eb8bbf4c1&amp;x-amz-CLOUDTYPEIN=PERSON&amp;Signature=1TBe2Lt%2BZc8ORQ8vWGcTSkOmtXk%3D" id="ckplayer_a1" autoplay="autoplay" width="100%" height="100%"></video>
