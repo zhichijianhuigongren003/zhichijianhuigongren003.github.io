@@ -4,7 +4,7 @@ layout: post
 tags:
   - 声援团
 comments: true
-title: 【最新消息！速转速存！】河南声圝援团关于佳圝士工圝人维圝权斗圝争建议信递交省委经过全记录！
+title: 【河南声圝援视频！速转速存！】河南声圝援团关于佳圝士工圝人维圝权斗圝争建议信递交省委经过全记录！
 ---
 <p style="text-align: center;"><strong><span style="font-size: 17.0pt; font-family: 宋体;">【最新消息！速转速存！】河南声圝援团关于佳圝士工圝人维圝权斗圝争建议信递交省委经过全记录！</span></strong></p>
 
