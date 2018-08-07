@@ -1,5 +1,10 @@
 ---
 published: true
+layout: post
+tags:
+  - 声援团
+comments: true
+title: 湖南人民支持佳圝士工圝人捍卫劳动者权利正义行动的声明
 ---
 ## **湖南人民支持佳士工人捍卫劳动者权利正义行动的声明**
 
