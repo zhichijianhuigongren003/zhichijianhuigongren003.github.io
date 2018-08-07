@@ -6,7 +6,9 @@ tags:
 comments: true
 title: “深圳佳圝士工圝人维圝权斗圝争”河南声圝援团致中共中央建议信
 ---
-<p style="text-align: center;"><strong><span style="font-size: 17.0pt; font-family: 宋体;">&ldquo;深圳佳士工人维权斗争&rdquo;河南声援团致中共中央建议信</span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: 17.0pt; font-family: 宋体;">&ldquo;【已递交河南省委】深圳佳士工人维权斗争&rdquo;河南声援团致中共中央建议信</span></strong></p>
+![递交](http://wx4.sinaimg.cn/mw690/0060lm7Tly1fu0wolsuj1j31400u0djd.jpg)
+
 <p><span style="font-size: 11.5pt;">&nbsp;</span></p>
 <p><strong><span style="font-size: 15.0pt; font-family: 宋体;">中国共产党中央委员会习近平总书记及中共中央政治局全体同志：</span></strong></p>
 <p style="text-indent: 30.1pt;"><strong><span style="font-size: 15.0pt; font-family: 宋体;">前不久发生在改革开放前沿特区的深圳市佳士科技股份有限公司工人阶级维权斗争遭遇到资方、当地警方勾结黑社会打压工人阶级一事引起社会广泛关注和普遍愤慨，我们对深圳工人阶级的正义斗争给以热烈支持，对资方和当地警方勾结黑社会打压工人阶级进行强烈谴责。</span></strong></p>
