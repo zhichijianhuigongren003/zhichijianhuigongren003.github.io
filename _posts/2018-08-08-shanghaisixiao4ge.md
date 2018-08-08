@@ -2,7 +2,7 @@
 published: true
 layout: post
 tags:
-  - 声援团
+  - 上海四校学子
 comments: true
 title: 上海四校学圝子对穗深工圝友致信补充
 ---
