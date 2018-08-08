@@ -6,6 +6,9 @@ tags:
 comments: true
 title: 8.7晚 | 声元团文艺汇演合集！精彩纷呈！速转保存！
 ---
+
+![](http://wx4.sinaimg.cn/mw690/0060lm7Tly1fu2i40crycj30m12oz4jf.jpg)
+
 # 8.7晚 | 声元团文艺汇演合集！精彩纷呈！速转保存！
 ## 1、时代榜样，青年楷模——广场上梦yu怒斥黑势力！
 <div style="width: 100%; height: 0px; position: relative; padding-bottom: 75.000%;"><iframe src="https://streamable.com/s/yp1pv/lmgyxe" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
@@ -43,4 +46,4 @@ title: 8.7晚 | 声元团文艺汇演合集！精彩纷呈！速转保存！
 **18816788751**
 **18219440198**
 
-![](http://wx4.sinaimg.cn/mw690/0060lm7Tly1fu2i40crycj30m12oz4jf.jpg)
+
