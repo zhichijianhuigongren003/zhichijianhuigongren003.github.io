@@ -1,9 +1,14 @@
 ---
-published: false
+published: true
+layout: post
+tags:
+  - 洛崇
+comments: true
+title: 青春无敌于天下——为北大恢复荣光，与工人阶级站在一起
 ---
 **青春无敌于天下**
 
-**------为北大恢复荣光，与工人阶级站在一起**
+**——为北大恢复荣光，与工人阶级站在一起**
 
 洛崇
 
