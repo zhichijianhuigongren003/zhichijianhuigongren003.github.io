@@ -7,7 +7,7 @@ comments: true
 title: 女工阿英——一身铁骨，一副热心肠
 ---
 
-![](http://wx2.sinaimg.cn/mw690/0060lm7Tly1fu3p0yocjgj31400u0ne9.jpg)
+![](http://wx2.sinaimg.cn/mw690/0060lm7Tly1fu3qmqsqblj30j60eeacq.jpg)
 
 我是刚刚从看守所里面出来的兰志伟，手铐累累伤痕印在手上，和大家共进退的愿望刻在心里！
 
