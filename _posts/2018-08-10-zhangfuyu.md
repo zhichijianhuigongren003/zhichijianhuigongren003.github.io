@@ -9,6 +9,8 @@ title: 我的丈夫余☆浚☆聪——那个领唱国☆际☆歌的工☆人
 
 # 我的丈夫余浚聪——那个领唱国际歌的工人
 
+![](http://wx4.sinaimg.cn/mw690/0060lm7Tly1fu4tvt8sqbj30go0m8ac6.jpg)
+
 我是黄兰凤，和丈夫余浚聪、弟弟余浚川同为727被捕工人。我和浚川刚刚被取保候审，浚聪现仍旧在看守所经受煎熬。
 
 在看守所的时候，黑警察以我不配合为由，四个大汉撕扯着我的头发，把我的嘴角打出血，
@@ -38,9 +40,7 @@ title: 我的丈夫余☆浚☆聪——那个领唱国☆际☆歌的工☆人
 ![](http://wx1.sinaimg.cn/mw690/0060lm7Tly1fu4tvtcukej30k00f1dhe.jpg)
 
 
-
-<div><iframe src="https://www.yylep.com/f-3188-h5/7b48f13f.mp4?pan=ty" frameborder="0" width="60%" height="60%" allowfullscreen style="width: 60%; height: 60%;"></iframe></div>
-
+<div><iframe src="https://www.yylep.com/f-3188-h5/7b48f13f.mp4?pan=ty" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%;"></iframe></div>
 
 
 网友们说：我感觉他好帅！
@@ -64,10 +64,6 @@ title: 我的丈夫余☆浚☆聪——那个领唱国☆际☆歌的工☆人
 他的本子上还记着许多劳动法的知识，也经常给大家聊，什么补偿金赔偿金的适用情况啦，什么哪几种算非法开除啦等等。
 
 佳士的第一封公开信就是浚聪写的。
-
-
-![](http://wx4.sinaimg.cn/mw690/0060lm7Tly1fu4tvt2taej30jk0a274x.jpg)
-
 
 他很聪明，却并没想着学个什么飞黄腾达，不再当一个打工的。
 
