@@ -37,7 +37,10 @@ title: 我的丈夫余☆浚☆聪——那个领唱国☆际☆歌的工☆人
 
 ![](http://wx1.sinaimg.cn/mw690/0060lm7Tly1fu4tvtcukej30k00f1dhe.jpg)
 
-<iframe src="https://www.yylep.com/f-3188-h5/7b48f13f.mp4?pan=ty" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe>
+
+
+<div><iframe src="https://www.yylep.com/f-3188-h5/7b48f13f.mp4?pan=ty" frameborder="0" width="70%" height="70%" allowfullscreen style="width: 70%; height: 70%; position: absolute;"></iframe></div>
+
 
 
 网友们说：我感觉他好帅！
@@ -62,7 +65,9 @@ title: 我的丈夫余☆浚☆聪——那个领唱国☆际☆歌的工☆人
 
 佳士的第一封公开信就是浚聪写的。
 
+
 ![](http://wx4.sinaimg.cn/mw690/0060lm7Tly1fu4tvt2taej30jk0a274x.jpg)
+
 
 他很聪明，却并没想着学个什么飞黄腾达，不再当一个打工的。
 
