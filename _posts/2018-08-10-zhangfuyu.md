@@ -39,8 +39,7 @@ title: 我的丈夫余☆浚☆聪——那个领唱国☆际☆歌的工☆人
 
 ![](http://wx1.sinaimg.cn/mw690/0060lm7Tly1fu4tvtcukej30k00f1dhe.jpg)
 
-
-<div><iframe src="https://www.yylep.com/f-3188-h5/7b48f13f.mp4?pan=ty" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%;"></iframe></div>
+<div style="width: 100%; height: 0px; position: relative; padding-bottom: 75.000%;"><iframe src="https://www.yylep.com/f-3188-h5/7b48f13f.mp4?pan=ty" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
 
 
 网友们说：我感觉他好帅！
