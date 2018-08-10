@@ -39,7 +39,7 @@ title: 我的丈夫余☆浚☆聪——那个领唱国☆际☆歌的工☆人
 
 
 
-<div><iframe src="https://www.yylep.com/f-3188-h5/7b48f13f.mp4?pan=ty" frameborder="0" width="70%" height="70%" allowfullscreen style="width: 70%; height: 70%; position: absolute;"></iframe></div>
+<div><iframe src="https://www.yylep.com/f-3188-h5/7b48f13f.mp4?pan=ty" allowfullscreen></iframe></div>
 
 
 
