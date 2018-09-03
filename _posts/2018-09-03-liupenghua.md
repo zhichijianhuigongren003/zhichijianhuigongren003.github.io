@@ -14,7 +14,11 @@ title: 7·27被捕工人代表刘鹏华：为工友掏心窝，为工友建工�
 全中国、全世界的正义人士都会斗争到底，直到工人代表胜利归来！
 </blockquote>
 
-<p align="center"> ![](https://photo.ishield.cn/pic/5b8cb34a9dc6d611b60ee2e3) </p>
+<p align="center"> <img src="https://photo.ishield.cn/pic/5b8cb34a9dc6d611b60ee2e3"> </p>
+
+
+
+<div style="width: 100%; height: 0px; position: relative; padding-bottom: 75.000%;"><iframe src="https://yun.52088cj.com/ty-3188-h5/81ff8f55a3034e450b5b" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
 
 我的好哥们刘鹏华出生于陕西省白水县一个贫困的小山村。白水县偏偏很缺水，许多人一辈子只洗两次澡，一次是出生，一次是结婚。
 
