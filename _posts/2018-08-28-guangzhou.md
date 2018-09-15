@@ -2,7 +2,6 @@
 published: true
 layout: post
 tags:
-  - 打狗棒
 comments: true
 title:  广#州&警#方沦为黑☆恶☆势☆力的走狗和打手！可耻！可恨！
 ---
@@ -53,3 +52,23 @@ title:  广#州&警#方沦为黑☆恶☆势☆力的走狗和打手！可耻！
 
 正义必将战胜邪恶！光明必将取代黑暗！
 
+
+---
+
+---
+
+【官方网址|佳士工人和声援团最新消息文章获取】
+全中国、全社会关注佳士建会事件的正义人士：
+
+★网址★
+
+[https://zhichijianhuigongren01.github.io/archive/](https://zhichijianhuigongren01.github.io/archive/)
+
+为相关消息的官方发布网址，请大家收藏，经常浏览，积极转发！推荐大家翻墙！
+
+★若此网址被封，请转移至：★
+
+[https://zhichijianhuigongren02.github.io/archive/](https://zhichijianhuigongren02.github.io/archive/)
+
+网址规律：数字更换为01、02、03...以此类推！
+请为营救所有工人同胞转发！
