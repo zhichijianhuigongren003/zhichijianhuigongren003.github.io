@@ -29,7 +29,7 @@ navigation:
     url: /about
   - name: 声援合集
     url: /archive
-  - name: 标签
+  - name: 栏目分类
     url: /tags
 #  - name: Theme
 #    url: https://github.com/AWEEKJ/kiko-now
