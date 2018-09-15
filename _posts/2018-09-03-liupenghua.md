@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-tags:
+tags: 自白书
 comments: true
 title: 7·27被捕工人代表刘鹏华：为工友掏心窝，为工友建工会
 ---
