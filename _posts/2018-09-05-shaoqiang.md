@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-tags:
+tags: 自白书
 comments: true
 title: 徐忠良师弟杨少强：马列主义似骄阳，吾辈少年当自强！
 ---
