@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-tags:
+tags: 自白书
 comments: true
 title: 专访﹕北京科技大学毕业生徐忠良——抗争动力源于农村基层
 ---
