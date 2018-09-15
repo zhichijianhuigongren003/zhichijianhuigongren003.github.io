@@ -2,7 +2,6 @@
 published: true
 layout: post
 tags:
-  - 声援团
 comments: true
 title: 7·27被捕工人代表刘鹏华：为工友掏心窝，为工友建工会
 ---
@@ -139,3 +138,23 @@ title: 7·27被捕工人代表刘鹏华：为工友掏心窝，为工友建工�
 
 
 **你们抓走了全心全意为工友服务的刘鹏华、余浚聪、米久平、李展，工友们越是想念他们，也就越痛恨你们，大家不但不会被你们吓跑，反而会更加团结起来，共同迎接我们亲爱的工人代表胜利归来！**
+
+---
+
+---
+
+【官方网址|佳士工人和声援团最新消息文章获取】
+全中国、全社会关注佳士建会事件的正义人士：
+
+★网址★
+
+[https://zhichijianhuigongren01.github.io/archive/](https://zhichijianhuigongren01.github.io/archive/)
+
+为相关消息的官方发布网址，请大家收藏，经常浏览，积极转发！推荐大家翻墙！
+
+★若此网址被封，请转移至：★
+
+[https://zhichijianhuigongren02.github.io/archive/](https://zhichijianhuigongren02.github.io/archive/)
+
+网址规律：数字更换为01、02、03...以此类推！
+请为营救所有工人同胞转发！
