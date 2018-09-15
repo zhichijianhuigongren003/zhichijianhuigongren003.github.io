@@ -2,7 +2,6 @@
 published: true
 layout: post
 tags:
-  - 声援团
 comments: true
 title: 徐忠良师弟杨少强：马列主义似骄阳，吾辈少年当自强！
 ---
@@ -88,3 +87,23 @@ title: 徐忠良师弟杨少强：马列主义似骄阳，吾辈少年当自强�
 
 
   [1]: https://i.loli.net/2018/09/05/5b8feb77cc5d2.jpg
+
+---
+
+---
+
+【官方网址|佳士工人和声援团最新消息文章获取】
+全中国、全社会关注佳士建会事件的正义人士：
+
+★网址★
+
+[https://zhichijianhuigongren01.github.io/archive/](https://zhichijianhuigongren01.github.io/archive/)
+
+为相关消息的官方发布网址，请大家收藏，经常浏览，积极转发！推荐大家翻墙！
+
+★若此网址被封，请转移至：★
+
+[https://zhichijianhuigongren02.github.io/archive/](https://zhichijianhuigongren02.github.io/archive/)
+
+网址规律：数字更换为01、02、03...以此类推！
+请为营救所有工人同胞转发！
