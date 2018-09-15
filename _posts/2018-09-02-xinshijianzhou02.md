@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-tags: 紧急快讯
+tags: 视频材料
 comments: true
 title: 【9.2重磅消息！深圳建会工人斗争全过程时间轴发布！】
 ---
