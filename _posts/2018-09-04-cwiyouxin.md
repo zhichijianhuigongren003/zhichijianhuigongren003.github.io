@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-tags:
+tags: 新闻报道
 comments: true
 title: 【国际声援】社會主義行動遊行抗議新華社抹黑佳士工潮　反對中共封鎖毛派網站
 
