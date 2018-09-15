@@ -2,7 +2,6 @@
 published: true
 layout: post
 tags:
-  - 声援团
 comments: true
 title: 【国际声援】社會主義行動遊行抗議新華社抹黑佳士工潮　反對中共封鎖毛派網站
 
@@ -18,3 +17,23 @@ title: 【国际声援】社會主義行動遊行抗議新華社抹黑佳士工�
 
 多國報道佳士工人抗爭的毛派網站一度被封鎖，包括《時代先鋒》、《紅色參考》等，至少8名編輯員被刑事拘留，至今仍然下落不明。中共自稱奉行毛澤東思想，而習近平經常借用唱紅歌及毛澤東語錄來鼓吹民族主義，但卻不能容納毛派的反對聲音。我們要求立即解除所有網路封鎖，釋放所有被捕者，撤銷所有控罪。組織獨立工會無罪！抗議無罪！
 
+
+---
+
+---
+
+【官方网址|佳士工人和声援团最新消息文章获取】
+全中国、全社会关注佳士建会事件的正义人士：
+
+★网址★
+
+[https://zhichijianhuigongren01.github.io/archive/](https://zhichijianhuigongren01.github.io/archive/)
+
+为相关消息的官方发布网址，请大家收藏，经常浏览，积极转发！推荐大家翻墙！
+
+★若此网址被封，请转移至：★
+
+[https://zhichijianhuigongren02.github.io/archive/](https://zhichijianhuigongren02.github.io/archive/)
+
+网址规律：数字更换为01、02、03...以此类推！
+请为营救所有工人同胞转发！
