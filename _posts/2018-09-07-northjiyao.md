@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-tags:
+tags: 自白书
 comments: true
 title: 8·24北方清场纪实|佳悦、少强、向伟、杨雪，广州警方跨省掳走了我们的同志
 ---
