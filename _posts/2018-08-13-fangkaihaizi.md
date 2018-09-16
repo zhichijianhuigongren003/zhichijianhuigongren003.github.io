@@ -1,8 +1,7 @@
 ---
 published: true
 layout: post
-tags:
-  - 声援团
+tags: 各界支持
 comments: true
 title: 【网友短文】畜生：放开哪些孩子！！！
 ---
