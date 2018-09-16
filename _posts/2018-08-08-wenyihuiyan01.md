@@ -1,8 +1,7 @@
 ---
 published: true
-layout: post
-tags:
-  - 声援团
+layout: post 
+tags: 视频材料
 comments: true
 title: 8.7晚 | 声元团文艺汇演合集！精彩纷呈！速转保存！
 ---
