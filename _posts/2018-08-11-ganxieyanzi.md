@@ -1,10 +1,9 @@
 ---
 published: true
 layout: post
-tags:
-  - 声援团
+tags: 评论文章
 comments: true
-title: 感谢燕☆子☆岭☆☆派☆☆出☆☆所让我知道了☆黑☆监☆狱☆不只在影视剧中!
+title: 感谢燕子岭派出所让我知道了黑监狱不只在影视剧中!
 ---
 
 ![7位被捕工人释放后继续战斗（8-8上午传出）](http://wx2.sinaimg.cn/mw690/0060lm7Tly1fu5ncwvrnxj30pq18ie82.jpg)
