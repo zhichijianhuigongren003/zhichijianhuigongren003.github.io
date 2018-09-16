@@ -2,9 +2,7 @@
 published: true
 layout: post
 title: 我们都一样——青年学生为什么要赶往燕子岭
-tags:
-  - - 声援团
-    - 想毛爷爷啦
+tags: 评论文章
 comments: true
 ---
 我们都一样——青年学生为什么要赶往燕子岭
