@@ -1,10 +1,9 @@
 ---
 published: true
 layout: post
-tags:
-  - 上海四校学子
+tags: 各界支持
 comments: true
-title: 上海四校学圝子对穗深工圝友致信补充
+title: 上海四校学子对穗深工友致信补充
 ---
 ## 上海四校学子对穗深工友致信补充（之一）
 2018.08.06
