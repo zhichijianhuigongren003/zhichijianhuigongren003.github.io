@@ -1,8 +1,7 @@
 ---
 published: true
 layout: post
-tags:
-  - 声援团
+tags: 自白书
 comments: true
 title: 【第二次删后重发！！！】女工阿英——一身铁骨，一副热心肠
 ---
