@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 江西师范大学学生shengyuan书
+title: 江西师范大学学生声援书
 tags: [各界支持,评论文章]
 comments: true
 ---
