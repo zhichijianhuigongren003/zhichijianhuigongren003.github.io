@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "JS工友：JS科技，是温暖的家还是人间地狱？"
-tags: [佳士工友]
+title: "佳士工友：佳士科技，是温暖的家还是人间地狱？"
+tags: [评论文章]
 comments: true
 ---
 
