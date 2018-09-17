@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "股民：佳士科技被曝遭机构抛售，股票或将断崖式下跌"
-tags: [佳士黑幕]
+tags: [评论文章]
 comments: true
 ---
 原作者：叮人的牛虻
