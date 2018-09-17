@@ -3,7 +3,7 @@ published: true
 layout: post
 tags:
   - 评论文章
-  - 各界支持
+  - 学者点评
 comments: true
 title: 青春无敌于天下——为北大恢复荣光，与工人阶级站在一起
 ---
