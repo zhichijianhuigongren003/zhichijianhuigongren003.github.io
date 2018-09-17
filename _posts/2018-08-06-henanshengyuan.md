@@ -3,6 +3,7 @@ published: true
 layout: post
 tags:
   - 各界声援
+  - 联名信
 comments: true
 title: "深圳佳士工人维权斗争"河南声援团致中共中央建议信
 ---
