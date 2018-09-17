@@ -2,7 +2,8 @@
 published: true
 layout: post
 tags:
-  - 愈战愈勇
+  - 视频材料
+  - 评论文章
 comments: true
 title: 莫须有！施虐狂！性骚扰！佳士工友被拘押后经历了这些……
 ---
