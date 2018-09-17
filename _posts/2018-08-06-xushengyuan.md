@@ -1,9 +1,9 @@
 ---
 published: true
-title: 徐忠良：奔赴ping山！做一个勇猛的战士！
+title: 徐忠良：奔赴坪山！做一个勇猛的战士！
 layout: post
 tags:
-  - 声援团
+  - 自白书
 comments: true
 ---
 佳士工人向黑暗势力英勇斗争已坚持几个月，虽直面牢狱之灾而犹未悔，有米久平的狱中诗作为证：
