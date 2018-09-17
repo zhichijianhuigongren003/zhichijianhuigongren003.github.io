@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "支援最先进坚决的工人阶级，shengyuan团呼吁捐助的倡议书"
+title: "支援最先进坚决的工人阶级，声援团呼吁捐助的倡议书"
 tags: [坪山工友声援团]
 comments: true
 ---
