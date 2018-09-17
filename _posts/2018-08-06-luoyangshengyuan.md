@@ -1,12 +1,12 @@
 ---
 published: true
-title: 洛阳中信重机下岗维鎿权工鎿人：支持jiashi工鎿人维鎿权，坚决斗争到底！
+title: 洛阳中信重机下岗维权工人：支持佳士工人维权，坚决斗争到底！
 layout: post
 tags:
-  - 声援团
+  - 各界支持
 comments: true
 ---
-<p class="zw-paragraph" style="line-height: 2.40833; margin-bottom: 16.5pt; margin-top: 17pt;" data-textformat="{&quot;ff&quot;:&quot;等线&quot;,&quot;fw&quot;:&quot;bold&quot;,&quot;fgc&quot;:&quot;rgb(0,0,0)&quot;,&quot;size&quot;:&quot;22.0&quot;}" data-keep-line-info="true" data-writer-border-info="{&quot;border-sides&quot;:[]}" data-doc-id="5379105000000015002"><span style="font-family: 等线; font-size: 22pt; font-weight: bold;">洛阳中信重机工鎿人：支持JS工鎿人维鎿权，坚决斗争到底！</span></p>
+<p class="zw-paragraph" style="line-height: 2.40833; margin-bottom: 16.5pt; margin-top: 17pt;" data-textformat="{&quot;ff&quot;:&quot;等线&quot;,&quot;fw&quot;:&quot;bold&quot;,&quot;fgc&quot;:&quot;rgb(0,0,0)&quot;,&quot;size&quot;:&quot;22.0&quot;}" data-keep-line-info="true" data-writer-border-info="{&quot;border-sides&quot;:[]}" data-doc-id="5379105000000015002"><span style="font-family: 等线; font-size: 22pt; font-weight: bold;">洛阳中信重机工人：支持佳士工人维权，坚决斗争到底！</span></p>
 ![](http://wx2.sinaimg.cn/mw690/0060lm7Tly1ftzn6c2xitj31kw16oqv6.jpg)
 
 声援视频：
