@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 汽配工人的呐喊——立即释放JS被捕g人！
-tags: [汽配工人]
+title: 汽配工人的呐喊——立即释放佳士被捕工人！
+tags: 
+    - 各界支持
 comments: true
 published: true
 ---
