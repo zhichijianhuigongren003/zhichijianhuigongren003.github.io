@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 浙工大学子对深圳JSgongren的shengyuan书
-tags: [佳士工友]
+title: 浙工大学子对深圳佳士工人的声援书
+tags: [各界支持]
 comments: true
 ---
 
