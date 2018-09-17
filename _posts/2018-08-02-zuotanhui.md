@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "jia4g人声yuan团在京代表座谈会纪要"
-tags: [声援团]
+title: "佳士工人声援团在京代表座谈会纪要"
+tags: [各界支持]
 comments: true
 ---
 
