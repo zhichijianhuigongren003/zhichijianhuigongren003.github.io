@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 全国学生声援佳士工友合集！
-tags: 德国战车
+tags: 各界支持
 comments: true
 ---
 
