@@ -1,7 +1,12 @@
 ---
-published: false
-title: null
+published: true
+layout: post
+tags:
+  - 学者点评
+comments: true
+title: 纪念恩格斯逝世及《炮打司令部》发表：长夜难明，百年魔怪
 ---
+
 **纪念恩格斯逝世及《炮打司令部》发表：长夜难明，百年魔怪**
 
 **作者：洛崇**
