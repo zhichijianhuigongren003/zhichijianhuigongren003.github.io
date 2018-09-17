@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 红色沙龙关于shengyuanJS先进gongren的郑重声明 
-tags: [声援团]
+title: 红色沙龙关于声援佳士先进工人的郑重声明 
+tags: [各界支持,评论文章]
 comments: true
+published: true
 ---
 
 
