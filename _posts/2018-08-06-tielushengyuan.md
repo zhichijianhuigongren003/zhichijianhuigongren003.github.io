@@ -1,12 +1,12 @@
 ---
 published: true
-title: 中国铁路工圝人联合会：声援jiashi工圝人，自己组建工會！
+title: 中国铁路工人联合会：声援佳士工人，自己组建工会！
 layout: post
 tags:
-  - 声援团
+  - 各界支持
 comments: true
 ---
-<p class="zw-paragraph" style="line-height: 1.72083; text-align: center; margin-bottom: 13pt; margin-top: 13pt;" data-textformat="{&quot;ff&quot;:&quot;微软雅黑&quot;,&quot;fw&quot;:&quot;bold&quot;,&quot;fgc&quot;:&quot;rgb(0,0,0)&quot;,&quot;size&quot;:&quot;14.0&quot;}" data-keep-line-info="true" data-writer-border-info="{&quot;border-sides&quot;:[]}" data-doc-id="5379105000000020001"><span style="font-family: 微软雅黑; font-size: 14pt; font-weight: bold;">中国铁路工嗱人联合会：声援JS工人，自己组建工會！</span></p>
+<p class="zw-paragraph" style="line-height: 1.72083; text-align: center; margin-bottom: 13pt; margin-top: 13pt;" data-textformat="{&quot;ff&quot;:&quot;微软雅黑&quot;,&quot;fw&quot;:&quot;bold&quot;,&quot;fgc&quot;:&quot;rgb(0,0,0)&quot;,&quot;size&quot;:&quot;14.0&quot;}" data-keep-line-info="true" data-writer-border-info="{&quot;border-sides&quot;:[]}" data-doc-id="5379105000000020001"><span style="font-family: 微软雅黑; font-size: 14pt; font-weight: bold;">中国铁路工人联合会：声援佳士工人，自己组建工會！</span></p>
 ![](http://wx3.sinaimg.cn/mw690/0060lm7Tly1ftzn5y5rdmj3093093799.jpg)
 <p class="zw-paragraph" style="line-height: 1.2; text-indent: 0.333333in; text-align: left; margin-bottom: 18.9pt; margin-top: 6.6pt; background-color: #ffffff;" data-textformat="{&quot;ff&quot;:&quot;华文仿宋&quot;,&quot;fgc&quot;:&quot;rgb(25,25,25)&quot;,&quot;size&quot;:&quot;10.5&quot;,&quot;bgc&quot;:&quot;rgb(255,255,255)&quot;}" data-window-control-info="true" data-writer-border-info="{&quot;border-sides&quot;:[]}"><span style="font-family: 华文仿宋; font-size: 13pt; color: #191919; background-color: #ffffff;">佳士科技的兄弟姐妹们，你们如同沉闷夏日里的一声惊雷，吹响了中国工人阶级自主组建工会的号角！让我们看到了，中国先进工人的觉悟和力量！</span></p>
 <p class="zw-paragraph" style="line-height: 1.2; text-indent: 0.333333in; text-align: left; margin-bottom: 18.9pt; margin-top: 6.6pt; background-color: #ffffff;" data-textformat="{&quot;ff&quot;:&quot;华文仿宋&quot;,&quot;fgc&quot;:&quot;rgb(25,25,25)&quot;,&quot;size&quot;:&quot;10.5&quot;,&quot;bgc&quot;:&quot;rgb(255,255,255)&quot;}" data-window-control-info="true" data-writer-border-info="{&quot;border-sides&quot;:[]}"><span style="font-family: 华文仿宋; font-size: 13pt; color: #191919; background-color: #ffffff;">深圳佳士科技利用各种违法手段来克扣工人的工资和打击维权工人。非法调休、强制徒步、佳士十八禁的违法罚款，勾结黑社会进厂殴打工人，这些可耻的行为正是资本家常规的手段，他们想通过所谓&ldquo;制度&rdquo;来镇压工人，再者就是勾结黑社会来殴打工人，以求把工人的维权镇压下去。可是佳士的这些行为都没有能够凑效，没有能够把先进的工人打散，而是使他们更加团结，更加坚决的斗争。</span></p>
