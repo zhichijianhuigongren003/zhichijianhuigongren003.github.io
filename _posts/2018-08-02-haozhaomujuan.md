@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "燕赤霞：呼吁为“JS先进工人”捐助"
-tags: [捐助]
+title: "燕赤霞：呼吁为“佳士先进工人”捐助"
+tags: [紧急快讯]
 comments: true
 ---
 中国社会已沉寂多年。
