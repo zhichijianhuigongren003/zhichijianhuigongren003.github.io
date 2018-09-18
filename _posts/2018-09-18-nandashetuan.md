@@ -2,7 +2,7 @@
 published: true
 layout: post
 tags:
-  - 紧急快讯
+  - 评论文章
 comments: true
 title: 这就是南京大学的918
 ---
